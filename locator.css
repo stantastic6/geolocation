@@ -1,0 +1,19 @@
+html, body, #map-canvas { 
+	height: 100%; 
+	margin: 0; 
+	padding: 0;
+}
+
+#map-canvas {
+	height: 90%;
+}
+
+.search-container {
+	height: 10%;
+}
+
+.search-container input.huge {
+	width: 100%;
+	height: 100%;
+	font-size: 50px;
+}
